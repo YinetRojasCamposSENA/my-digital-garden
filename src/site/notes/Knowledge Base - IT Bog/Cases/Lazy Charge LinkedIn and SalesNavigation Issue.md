@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge-base-it-bog/cases/lazy-charge-linked-in-and-sales-navigation-issue/","tags":["gardenEntry"]}
 ---
 
----
+
 On May, Tuesday 6th, in the morning, various persons report a lazy charge in LinkedIn and SalesNavigation. 
 
 ## **1. Issue Description**
