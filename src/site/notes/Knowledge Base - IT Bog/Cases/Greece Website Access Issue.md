@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/knowledge-base-it-bog/cases/greece-website-access-issue/","tags":["gardenEntry"]}
 ---
 
----
 ## 📌 Descripción del Problema  
 
 - Usuaria en **Colombia** no puede acceder a un sitio web alojado en **Grecia**.  
