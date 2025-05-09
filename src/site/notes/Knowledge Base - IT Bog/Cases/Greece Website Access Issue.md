@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-base-it-bog/cases/greece-website-access-issue/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/knowledge-base-it-bog/cases/greece-website-access-issue/"}
 ---
 
 ## 📌 Descripción del Problema  
